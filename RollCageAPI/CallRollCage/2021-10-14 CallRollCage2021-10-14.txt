@@ -1,0 +1,6 @@
+Start : 10/14/2021 4:28:03 PM
+Move To Location : RC-DK-001
+Check Rollcage : 00000162
+createMoveRollCage : {"rollCageID":"00000162","movementType":2,"sourceStation":0,"destStation":53,"dock_Index":"","dock_Id":"","dock_Name":""}
+createMoveRollCage Status : 90
+Error : ไม่สามารถทำการเรียกได้

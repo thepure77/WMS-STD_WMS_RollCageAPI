@@ -1,0 +1,3 @@
+Start : 10/26/2021 5:07:25 PM
+Check Rollcage : 00000261
+Data To WCS : {"rollCageID":"00000261","movementType":3,"sourceStation":98,"destStation":165,"dock_Index":"","dock_Id":"","dock_Name":""}

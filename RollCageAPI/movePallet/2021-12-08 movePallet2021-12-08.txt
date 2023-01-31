@@ -1,0 +1,12 @@
+Start : 12/8/2021 1:40:08 PM
+Check Rollcage : 00000080
+Data To WCS : {"rollCageID":"00000080","movementType":3,"sourceStation":112,"destStation":312,"dock_Index":"","dock_Id":"","dock_Name":""}
+Check Rollcage WCS : 10
+Check Rollcage ID : 00000080
+Check Rollcage Truckload No : TM21120550
+Start : 12/8/2021 1:56:43 PM
+Check Rollcage : 00000186
+Data To WCS : {"rollCageID":"00000186","movementType":3,"sourceStation":104,"destStation":334,"dock_Index":"","dock_Id":"","dock_Name":""}
+Check Rollcage WCS : 10
+Check Rollcage ID : 00000186
+Check Rollcage Truckload No : TM21120548

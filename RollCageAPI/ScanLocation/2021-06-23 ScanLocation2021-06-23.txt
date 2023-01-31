@@ -1,0 +1,10 @@
+Start : 6/23/2021 8:02:03 PM
+fine Location : RC-DK-001
+Result fine Location : 0 : 6/23/2021 8:02:04 PM
+Start : 6/23/2021 8:12:52 PM
+fine Location : RC-DK-001
+Result fine Location : 0 : 6/23/2021 8:12:53 PM
+Start : 6/23/2021 8:26:31 PM
+fine Location : RC-DK-001
+Result fine Location : 1 : 6/23/2021 8:26:31 PM
+Error fine Location : RC-DK-001 : 6/23/2021 8:26:31 PM

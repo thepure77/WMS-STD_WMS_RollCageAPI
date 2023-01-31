@@ -1,0 +1,9 @@
+Start : 11/30/2021 1:51:26 PM
+Start : 11/30/2021 1:53:38 PM
+Start : 11/30/2021 2:06:09 PM
+Start : 11/30/2021 2:14:28 PM
+Start : 11/30/2021 2:19:44 PM
+Check Rollcage : 00000120
+Data To WCS : {"rollCageID":"00000120","movementType":3,"sourceStation":108,"destStation":213,"dock_Index":"","dock_Id":"","dock_Name":""}
+Start : 11/30/2021 2:37:12 PM
+Start : 11/30/2021 2:39:41 PM

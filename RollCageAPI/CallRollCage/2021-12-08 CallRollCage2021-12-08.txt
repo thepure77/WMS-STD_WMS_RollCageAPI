@@ -1,0 +1,15 @@
+Start : 12/8/2021 1:43:19 PM
+Move To Location : RC-DK-055
+Check Rollcage : 00000237
+createMoveRollCage : {"rollCageID":"00000237","movementType":2,"sourceStation":345,"destStation":107,"dock_Index":"","dock_Id":"","dock_Name":""}
+createMoveRollCage Status : 10
+Start : 12/8/2021 2:00:32 PM
+Move To Location : RC-DK-059
+Check Rollcage : 00000158
+createMoveRollCage : {"rollCageID":"00000158","movementType":2,"sourceStation":313,"destStation":111,"dock_Index":"","dock_Id":"","dock_Name":""}
+createMoveRollCage Status : 10
+Start : 12/8/2021 3:26:01 PM
+Move To Location : RC-DK-065
+Check Rollcage : 00000011
+createMoveRollCage : {"rollCageID":"00000011","movementType":2,"sourceStation":345,"destStation":117,"dock_Index":"","dock_Id":"","dock_Name":""}
+createMoveRollCage Status : 10

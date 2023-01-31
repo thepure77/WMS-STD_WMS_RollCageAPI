@@ -1,0 +1,5 @@
+Start : 11/25/2021 9:25:40 AM
+Move To Location : RC-DK-001
+Check Rollcage : 00000005
+createMoveRollCage : {"rollCageID":"00000005","movementType":2,"sourceStation":213,"destStation":53,"dock_Index":"","dock_Id":"","dock_Name":""}
+Error : One or more errors occurred. (No connection could be made because the target machine actively refused it)
